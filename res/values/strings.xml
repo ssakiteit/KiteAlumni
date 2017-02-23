@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kite alumni</string>
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Events</string>
+    <string name="title_section3">Chats</string>
+    <string name="title_section4">Job_Affairs</string>
+    <string name="title_section5">Stack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
