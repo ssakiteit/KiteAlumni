@@ -59,8 +59,8 @@ public class MainActivity extends Activity
         switch (number) {
             case 1:
                 mTitle = getString(R.string.title_section1);
-               Intent i=new Intent(MainActivity.this,profile.class);
-               startActivity(i);
+               //Intent i=new Intent(MainActivity.this,profile.class);
+               //startActivity(i);
                 break;
             case 2:
                 mTitle = getString(R.string.title_section2);
