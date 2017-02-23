@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 
-
+//c1
 public class login extends Activity {
 	Button signup,login;
     @Override

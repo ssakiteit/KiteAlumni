@@ -11,6 +11,7 @@ public class studreg extends Activity {
 	Button signup;
 	String dept,year,gender;
     private Spinner spinner;
+    //c3
     private Spinner spinner1;
     private Spinner spinner2;
     private static final String[] paths = {"Select department","IT", "CSE", "ECE","MECH","CIVIL"};
